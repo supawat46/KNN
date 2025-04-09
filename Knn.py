@@ -4,5 +4,4 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header('mai')
-st.title('TESTPYTHON')
+st.title('การจำแนกข้อมูลด้วยเทคนิค Machine Learning')
